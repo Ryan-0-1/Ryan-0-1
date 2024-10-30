@@ -1,0 +1,58 @@
+- 👋 Hi, I’m @Ryan-0-1
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Ryan-0-1/Ryan-0-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mike Tyson - O Lendário Boxeador</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mike Tyson</h1>
+        <p>O Lendário Boxeador</p>
+    </header>
+
+    <section id="intro">
+        <h2>Sobre Mike Tyson</h2>
+        <p>Mike Tyson, também conhecido como "Iron Mike", é um dos boxeadores mais icônicos da história. Conhecido pelo seu estilo agressivo e força incomparável, ele foi o campeão mundial de pesos pesados mais jovem da história aos 20 anos de idade.</p>
+    </section>
+
+    <section id="carreira">
+        <h2>Carreira</h2>
+        <ul>
+            <li>Nome Completo: Michael Gerard Tyson</li>
+            <li>Data de Nascimento: 30 de junho de 1966</li>
+            <li>Estilo de Boxe: Ortodoxo</li>
+            <li>Total de Lutas: 58</li>
+            <li>Vitórias: 50 (44 por nocaute)</li>
+            <li>Derrotas: 6</li>
+        </ul>
+    </section>
+
+    <section id="lutas">
+        <h2>Lutas Memoráveis</h2>
+        <ol>
+            <li>Mike Tyson vs Trevor Berbick - 1986 (Tyson se torna o campeão mais jovem de pesos pesados)</li>
+            <li>Mike Tyson vs Larry Holmes - 1988</li>
+            <li>Mike Tyson vs Michael Spinks - 1988 (Nocaute em 91 segundos)</li>
+            <li>Mike Tyson vs Evander Holyfield - 1997 (a luta da mordida)</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>Este site é um tributo a Mike Tyson e sua carreira no boxe.</p>
+    </footer>
+</body>
+</html>
